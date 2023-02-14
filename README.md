@@ -1,4 +1,4 @@
-# 🌐️ Blog Refeitorio 🍽️
+# 🌐️ SmartFood 🍽️
 > ## Um aplicativo destinado ao refeitorio do IFPI.
 > ### com o intuito de divulgar com mais facilidade o cardapio semanal e noticias sobre o refeitorio
 
