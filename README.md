@@ -38,6 +38,7 @@
 
 ## FERRAMENTA DE GERENCIAMENTO
 > ### [notion](https://notion.so) 📒️
+> ### [GitHub] (https://github.com) 🐱️
 
 ## MEMBROS:
 > ### Francisco Igor
