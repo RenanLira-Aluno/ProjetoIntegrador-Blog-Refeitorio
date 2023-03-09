@@ -1,13 +1,13 @@
 # 🌐️ SmartFood 🍽️
-> ## Um aplicativo destinado ao refeitorio do IFPI.
-> ### com o intuito de divulgar com mais facilidade o cardapio semanal e noticias sobre o refeitorio
+> ## Um aplicativo destinado ao refeitório do IFPI.
+> ### com o intuito de divulgar com mais facilidade o cardápio semanal e noticias sobre o refeitório
 
 ## TEMA PRINCIPAL
-> ### Ánalise De Dados
+> ### Análise De Dados
 > ### Área a que se aplica
 > > solução para problema X do do IFPI
 
-> ### Princial Problema que resolverá
+> ### Principal Problema que resolverá
 > > evitar o desperdício de comida através de dados obtidos pelo aplicativo
 
 ## TEMA SECUNDÁRIO
@@ -15,8 +15,8 @@
 > ### Área a que se aplica 
 > > social
 
-> ### Princial Problema que resolverá
-> > A falta de acesso há informações dos refeitorios e sugestões para o mesmo 
+> ### Principal Problema que resolverá
+> > A falta de acesso há informações dos refeitórios e sugestões para o mesmo 
 
 ## FUNCIONALIDADES
 > ## Principais Funcionalidades
@@ -24,7 +24,7 @@
 > > Obter a confirmação de presença dos usuários no refeitório, inicialmente com o intuito de coletar informações para análise de dados
 
 > ### Comentar 💬️
-> > Fomentar o engajamento dos usuários e comparilhamento de informações sobre o status do refeitório.
+> > Fomentar o engajamento dos usuários e compartilhamento de informações sobre o status do refeitório.
 
 > ### Avaliar e Sugerir 💡️ 
 > > Escolher entres as opções oferecidas (por sistema ou usuários) o cardápio mais popular.
@@ -46,10 +46,10 @@
 
 > ## Outras Funcionalidades (usuário administrador)
 > ### Login / Logout 🔒️
-> > Acessar e sair do sistema com sua conta propria
+> > Acessar e sair do sistema com sua conta própria
 
 > ### Editar informações do Menu ✏️
-> > Lançar e editar cardapios diarios e/ou semanalmentes
+> > Lançar e editar cardápios diários e/ou semanalmente
 
 > ### Editar e Excluir comentários ✏️
 > > Administrar comentários dos usuários comuns, podendo remove-los e edita-los
