@@ -42,15 +42,14 @@
 >
 > ### Dar like e Denunciar Comentários 👍️
 > > Os usuários poderão interagir de forma que irá contribuir com o aplicativo
-
-
+>
 > ## Outras Funcionalidades (usuário administrador)
 > ### Login / Logout 🔒️
 > > Acessar e sair do sistema com sua conta própria
-
+>
 > ### Editar informações do Menu ✏️
 > > Lançar e editar cardápios diários e/ou semanalmente
-
+>
 > ### Editar e Excluir comentários ✏️
 > > Administrar comentários dos usuários comuns, podendo remove-los e edita-los
 
