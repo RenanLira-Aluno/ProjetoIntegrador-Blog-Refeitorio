@@ -22,24 +22,24 @@
 > ## Principais Funcionalidades
 > ### Check ✅️
 > > Obter a confirmação de presença dos usuários no refeitório, inicialmente com o intuito de coletar informações para análise de dados
-
+>
 > ### Comentar 💬️
 > > Fomentar o engajamento dos usuários e compartilhamento de informações sobre o status do refeitório.
-
+>
 > ### Avaliar e Sugerir 💡️ 
 > > Escolher entres as opções oferecidas (por sistema ou usuários) o cardápio mais popular.
-
+>
 > ## Outras Funcionalidades (usuário comum)
-
+>
 > ### Login / logout
 > > Acessar e sair do sistema com sua conta propria
-
+>
 > ### Exibir Cardápio 📜️
 > > Mostrar ao usuário informações completas e atualizada sobre o cardápio diário e semanal do refeitório
-
+>
 > ### Avisos ⚠️
 > > Utilizar o aplicativo para facilitar também os avisos da diretoria sobre o refeitório aos alunos. Com isso o aluno será notificado caso tenha, por exemplo, uma alteração no horário de funcionamento do refeitório em um dia especifico.
-
+>
 > ### Dar like e Denunciar Comentários 👍️
 > > Os usuários poderão interagir de forma que irá contribuir com o aplicativo
 
