@@ -29,12 +29,30 @@
 > ### Avaliar e Sugerir 💡️ 
 > > Escolher entres as opções oferecidas (por sistema ou usuários) o cardápio mais popular.
 
-> ## Outras Funcionalidades
+> ## Outras Funcionalidades (usuário comum)
+
+> ### Login / logout
+> > Acessar e sair do sistema com sua conta propria
+
 > ### Exibir Cardápio 📜️
 > > Mostrar ao usuário informações completas e atualizada sobre o cardápio diário e semanal do refeitório
 
 > ### Avisos ⚠️
 > > Utilizar o aplicativo para facilitar também os avisos da diretoria sobre o refeitório aos alunos. Com isso o aluno será notificado caso tenha, por exemplo, uma alteração no horário de funcionamento do refeitório em um dia especifico.
+
+> ### Dar like e Denunciar Comentários 👍️
+> > Os usuários poderão interagir de forma que irá contribuir com o aplicativo
+
+
+> ## Outras Funcionalidades (usuário administrador)
+> ### Login / Logout 🔒️
+> > Acessar e sair do sistema com sua conta propria
+
+> ### Editar informações do Menu ✏️
+> > Lançar e editar cardapios diarios e/ou semanalmentes
+
+> ### Editar e Excluir comentários ✏️
+> > Administrar comentários dos usuários comuns, podendo remove-los e edita-los
 
 ## FERRAMENTA DE GERENCIAMENTO
 > ### [notion](https://notion.so) 📒️
