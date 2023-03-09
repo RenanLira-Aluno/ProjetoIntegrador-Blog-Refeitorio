@@ -57,6 +57,9 @@
 > ### [notion](https://notion.so) 📒️
 > ### [GitHub](https://github.com) 🐱️
 
+## LINKS:
+> [video sobre funcionalidades](https://drive.google.com/file/d/1DOBwwSnNquu0a5Nfj24IpKT7KKO7Gf6n/view?usp=sharing)
+
 ## MEMBROS:
 > ### Francisco Igor
 > ### Renan Almeida
