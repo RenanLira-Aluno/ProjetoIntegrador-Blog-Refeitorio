@@ -54,7 +54,7 @@
 > > Administrar comentários dos usuários comuns, podendo remove-los e edita-los
 
 ## FERRAMENTA DE GERENCIAMENTO
-> ### [notion](https://notion.so) 📒️
+> ### [notion](https://www.notion.so/Smart-Food-711f8edfdfa14082ab75a2661a71d47d?pvs=4) 📒️
 > ### [GitHub](https://github.com) 🐱️
 
 ## LINKS:
