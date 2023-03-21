@@ -59,6 +59,7 @@
 
 ## LINKS:
 > [video sobre funcionalidades](https://drive.google.com/file/d/1DOBwwSnNquu0a5Nfj24IpKT7KKO7Gf6n/view?usp=sharing)
+
 > [video sobre Refinamento das funcionalidades](https://drive.google.com/file/d/1wFDq1yjVUgshG8ZC_yC2ZXEeSIejftip/view?usp=sharing)
 
 ## MEMBROS:
