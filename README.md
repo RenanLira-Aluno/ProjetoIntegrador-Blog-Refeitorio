@@ -62,6 +62,8 @@
 
 > [video sobre Refinamento das funcionalidades](https://drive.google.com/file/d/1wFDq1yjVUgshG8ZC_yC2ZXEeSIejftip/view?usp=sharing)
 
+> [video sobre wireframes](https://drive.google.com/file/d/11sdpuU3t1QqS_UgUrdhJCs2FbcYbOxlX/view?usp=sharing)
+
 ## MEMBROS:
 > ### Francisco Igor
 > ### Renan Almeida
