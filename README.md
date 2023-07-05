@@ -2,6 +2,21 @@
 > ## Um aplicativo destinado ao refeitório do IFPI.
 > ### com o intuito de divulgar com mais facilidade o cardápio semanal e noticias sobre o refeitório
 
+## LINKS:
+> [video sobre funcionalidades](https://drive.google.com/file/d/1DOBwwSnNquu0a5Nfj24IpKT7KKO7Gf6n/view?usp=sharing)
+
+> [video sobre Refinamento das funcionalidades](https://drive.google.com/file/d/1wFDq1yjVUgshG8ZC_yC2ZXEeSIejftip/view?usp=sharing)
+
+> [video sobre wireframes](https://drive.google.com/file/d/11sdpuU3t1QqS_UgUrdhJCs2FbcYbOxlX/view?usp=sharing)
+
+> [API - RestoIF](https://github.com/RenanLira/resto-if-api)
+
+> [Diagrama Modelo E-R](https://dbdiagram.io/d/649c4f7402bd1c4a5e34c97f)
+
+> [notion](https://www.notion.so/Smart-Food-711f8edfdfa14082ab75a2661a71d47d?pvs=4)
+
+> [Artigo](https://drive.google.com/file/d/1pq2fFRMNqxSFdCuTm0kaHmFmf6MPEXV2/view?usp=sharing) 
+
 ## TEMA PRINCIPAL
 > ### Análise De Dados
 > ### Área a que se aplica
@@ -57,14 +72,6 @@
 > ### [notion](https://www.notion.so/Smart-Food-711f8edfdfa14082ab75a2661a71d47d?pvs=4) 📒️
 > ### [GitHub](https://github.com) 🐱️
 
-## LINKS:
-> [video sobre funcionalidades](https://drive.google.com/file/d/1DOBwwSnNquu0a5Nfj24IpKT7KKO7Gf6n/view?usp=sharing)
-
-> [video sobre Refinamento das funcionalidades](https://drive.google.com/file/d/1wFDq1yjVUgshG8ZC_yC2ZXEeSIejftip/view?usp=sharing)
-
-> [video sobre wireframes](https://drive.google.com/file/d/11sdpuU3t1QqS_UgUrdhJCs2FbcYbOxlX/view?usp=sharing)
-
-> [API - RestoIF](https://github.com/RenanLira/resto-if-api)
 
 ## MEMBROS:
 > ### Francisco Igor
